@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 41.0, 84.0, 1040.0, 844.0 ],
+		"rect" : [ 42.0, 85.0, 1040.0, 844.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -84,7 +84,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 381.0, 59.0, 61.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 152.0, 20.0, 61.0, 20.0 ],
+					"presentation_rect" : [ 154.0, 31.0, 61.0, 20.0 ],
 					"text" : "Damping"
 				}
 
@@ -99,7 +99,7 @@
 					"patching_rect" : [ 311.5, 52.0, 50.0, 34.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
-					"presentation_rect" : [ 100.5, 13.0, 50.0, 34.0 ],
+					"presentation_rect" : [ 100.5, 24.0, 50.0, 34.0 ],
 					"text" : "Rattle Tension"
 				}
 
@@ -147,7 +147,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 391.0, 100.0, 27.0, 28.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 169.0, 56.0, 27.0, 28.0 ],
+					"presentation_rect" : [ 171.0, 63.0, 27.0, 28.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_initial" : [ 0.5 ],
@@ -177,7 +177,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 318.0, 100.0, 27.0, 28.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 112.0, 56.0, 27.0, 28.0 ],
+					"presentation_rect" : [ 112.0, 63.0, 27.0, 28.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_initial" : [ 0.5 ],
@@ -207,7 +207,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 239.0, 100.0, 27.0, 28.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 55.0, 56.0, 27.0, 28.0 ],
+					"presentation_rect" : [ 52.0, 63.0, 27.0, 28.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_initial" : [ 0.5 ],
@@ -3323,7 +3323,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 235.0, 59.0, 45.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 46.0, 20.0, 45.0, 20.0 ],
+					"presentation_rect" : [ 43.0, 31.0, 45.0, 20.0 ],
 					"text" : "Tuning"
 				}
 
